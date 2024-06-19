@@ -1,4 +1,4 @@
-##tasks_lesta_game
+## tasks_lesta_game
 
 ## Задание 1
 Плюсы:
